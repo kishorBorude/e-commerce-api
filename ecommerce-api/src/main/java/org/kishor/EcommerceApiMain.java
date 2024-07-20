@@ -1,13 +1,13 @@
-package org.dnyanyog;
+package org.kishor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ECommerceApiMain {
+public class EcommerceApiMain {
 	
 	public static void main(String[] args) {
-		SpringApplication.run(ECommerceApiMain.class, args);
+		SpringApplication.run(EcommerceApiMain.class, args);
 	}
 
 }
